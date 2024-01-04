@@ -1,0 +1,10 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif, sans-serif;
+  margin: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
